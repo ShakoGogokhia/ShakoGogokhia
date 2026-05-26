@@ -44,7 +44,7 @@ I specialize in constructing robust backend systems and crafting seamless, highl
 
 ---
 
-## 📊 Animated Activity & Metrics
+## 📊 Activity & Metrics
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
