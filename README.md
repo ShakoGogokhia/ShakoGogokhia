@@ -1,11 +1,13 @@
 <div align="center">
 
+  <!-- Animated Typing Intro Header -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Shako;Full+Stack+Developer;Building+Web+%26+Mobile+Apps" alt="Typing SVG" />
 
   <p align="center">
     <strong>Passionate Full Stack Developer creating high-performance web & mobile experiences.</strong>
   </p>
 
+  <!-- Animated Tech Waves -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=120&section=header&text=%20&fontSize=90" width="100%" />
 
 </div>
@@ -50,17 +52,20 @@ I specialize in constructing robust backend systems and crafting seamless, highl
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%"/>
+        <!-- Streak Stats Card (Animated Tokyo Night theme) -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShakoGogokhia&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%"/>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="100%"/>
+        <!-- Top Languages Card -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakoGogokhia&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="100%"/>
       </td>
     </tr>
   </table>
   
   <br />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="85%"/>
+  <!-- Main Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ShakoGogokhia&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="85%"/>
 </div>
 
 ---
@@ -68,7 +73,7 @@ I specialize in constructing robust backend systems and crafting seamless, highl
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShakoGogokhia&theme=tokyonight&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
@@ -77,11 +82,11 @@ I specialize in constructing robust backend systems and crafting seamless, highl
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/shako-gogokhia-ab14b6325" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:tufferofficial@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
