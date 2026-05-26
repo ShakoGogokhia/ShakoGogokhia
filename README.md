@@ -1,10 +1,3 @@
-The default `github-readme-stats` public server (`github-readme-stats.vercel.app`) frequently runs into Vercel rate limits and hosting pauses due to massive global traffic, which is why those specific cards are showing up blank or broken on your profile right now.
-
-To fix this immediately without you having to deploy your own Vercel server, I have swapped out the unreliable links with highly stable, fast-mirror alternatives that don't suffer from the same downtime.
-
-Here is your completely fixed, production-ready `README.md` code:
-
-```markdown
 <div align="center">
 
   <!-- Animated Typing Intro Header -->
@@ -101,5 +94,3 @@ I specialize in constructing robust backend systems and crafting seamless, highl
   <img src="https://raw.githubusercontent.com/TristanB0/TristanB0/main/goku-ultra-instinct.gif" alt="Animated Footer Character" width="150"/>
 
 </div>
-
-```
